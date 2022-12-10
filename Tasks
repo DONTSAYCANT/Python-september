@@ -447,3 +447,31 @@ December 10
 https://www.w3schools.com/python/python_ref_functions.asp (any 20 functions with programs)
 
 
+#Task1
+
+#hackerrank Write a function
+
+#Task2
+
+#hackerrank Python If-Else
+
+#Task3
+
+#Fizz buzz
+#Get one number from user
+#5
+#Multiple of 3 ==> Fizz
+#Multiple of 5 ===> buzz
+#Multiple of 3 and 5 ===> Fizzbuzz
+#None ==> Invalid number
+
+
+$Task4:
+#collect three marks from user
+#calculate mark1 + mark2 + mark3 / 3
+
+if calculate > 90 ===> Grade A
+if calculate > 75 ==> Grade B
+calculate > 50  ==> grade C
+Other wise ===> Grade D
+
